@@ -1,4 +1,6 @@
 
+                                              #Performance Report of Plance Co.(h1)
+
 **Project Background**
 This report presents the **Gross Profit Performance of Plant Co.** across 2023 and 2024 with a focus on Gross Profit, Quantity, and Sales for three product types: Indoor, Landscape, and Outdoor. The goal is to provide insights into user behavior, highlight important trends, and make data-driven recommendations that can help to make decision.
 
