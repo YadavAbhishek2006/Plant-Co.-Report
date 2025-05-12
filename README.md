@@ -1,9 +1,11 @@
 
 Project Background
 This report presents the Gross Profit Performance of Plant Co. across 2023 and 2024 with a focus on Gross Profit, Quantity, and Sales for three product types: Indoor, Landscape, and Outdoor. The goal is to provide insights into user behavior, highlight important trends, and make data-driven recommendations that can help to make decision.
+
 Therefore, understanding the market patterns can help improve product wise sales and making effective decision which help especially during critical events like natural disasters.
-    . Bottom 10YTD vs PYTD | Country = This is referring to an analysis of the 10 lowest-performing entities within a country, comparing their performance this year versus the same period last year.
-   . Gross Profit YTD vs PYTD = Is an analysis comparing how much profit has been generated in the current year versus the same period last year, helping businesses track financial growth, profitability trends, and performance fluctuations.
+
+  . Bottom 10YTD vs PYTD | Country = This is referring to an analysis of the 10 lowest-performing entities within a country, comparing their performance this year versus the same period last year.
+  . Gross Profit YTD vs PYTD = Is an analysis comparing how much profit has been generated in the current year versus the same period last year, helping businesses track financial growth, profitability trends, and performance fluctuations.
   . Account Profitability Segmentation | GP% and GP = This analysis helps businesses identify high-margin and low-margin accounts, optimize resource allocation, and make strategic financial decisions.
 
 Executive Summary
