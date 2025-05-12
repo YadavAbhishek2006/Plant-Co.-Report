@@ -16,7 +16,7 @@ Therefore, understanding the market patterns can help improve product wise sales
   ### . Gross Profit YTD vs PYTD 
   Is an analysis comparing how much profit has been generated in the current year versus the same period last year, helping businesses track financial growth, profitability trends, and performance fluctuations.
   
-  ## . Account Profitability Segmentation | GP% and GP
+  ### . Account Profitability Segmentation | GP% and GP
    This analysis helps businesses identify high-margin and low-margin accounts, optimize resource allocation, and make strategic financial decisions.
 
 ## Executive Summary 
