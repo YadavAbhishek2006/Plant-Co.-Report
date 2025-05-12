@@ -11,6 +11,9 @@ Therefore, understanding the market patterns can help improve product wise sales
 Executive Summary
 The Plant Co. Gross Profit Performance report for 2023 shows a slight decline in overall profitability year-over-year. Gross profit YTD is $5.15M, compared to $5.42M PYTD, a drop of $0.27M (≈ 5%). The gross profit margin (GP%) remains strong at 39.6%. The primary driver of the shortfall is a significant downturn in the Chinese market (–$0.405M), which represents a large share of total profit. By product line, Indoor plants contribute the greatest share of both sales and gross profit (roughly half of total volume), followed by Landscape and Outdoor products. The Outdoor segment is the smallest contributor and shows relative weakness, suggesting it may require additional strategic focus. Seasonally, the most profitable months were April and November (each ~$0.50M GP), leveraging strong first-quarter and holiday season demand. In contrast, May and August underperformed relative to prior year (notably, June saw a steep GP decline of –$0.15M). These patterns suggest opportunities to shift resources toward high-performing product lines and peak months while addressing lagging areas.
 
+![Screenshot 2025-05-11 234007](https://github.com/user-attachments/assets/39285a6c-0c7c-4007-957c-65de3c3d00eb)
+
+
 
 Summary of Insights
 Country and Product Demand: Country-level data reveals that major markets exhibit distinct product preferences. For example, the United States leads in total demand across all product types, particularly Indoor plants, while China also shows strong demand for Indoor but has experienced a marked decline. 
